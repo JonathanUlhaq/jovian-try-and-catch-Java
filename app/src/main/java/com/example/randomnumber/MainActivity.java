@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
         } catch (Exception e)
         {
            EditText jawaban=findViewById(R.id.jawaban);
-           jawaban.setError("Jawaban Harus Berupa Ankga");
+           jawaban.setError("Tebakan harus diisi");
         }
 
 
